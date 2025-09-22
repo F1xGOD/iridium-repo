@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "name": "Telegram",
+      "icon": "telegram.png",
+      "summary": "An anura app for the telegram chat app",
+      "desc": "iFramed version of telegram to work with hcaptcha",
+      "package": "telegram.app",
+      "data": "app.zip",
+      "screenshots": [
+        {
+          "path": "screenshots/something.png",
+          "desc": "(screenshot desc)"
+        },
+        {
+          "path": "screenshots/something2.png",
+          "desc": "(screenshot desc)"
+        }
+      ],
+      "version": "1.0.0",
+      "category": "chat"
+    }
+  ]
+}
