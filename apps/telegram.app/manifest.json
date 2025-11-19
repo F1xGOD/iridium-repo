@@ -1,8 +1,8 @@
 {
     "name": "Telegram",
     "icon": "telegram.png",
-    "summary": "An anura app for the telegram chat app",
-    "desc": "iFramed version of telegram to work with hcaptcha",
+    "summary": "An iridium app for the telegram chat app",
+    "desc": "iFramed version of telegram to work with vpn",
     "package": "telegram.app",
     "data": "app.zip",
     "screenshots": [
