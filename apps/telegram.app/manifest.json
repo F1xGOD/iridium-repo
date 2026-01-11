@@ -3,7 +3,7 @@
     "icon": "telegram.png",
     "summary": "An iridium app for the telegram chat app",
     "desc": "iFramed version of telegram to work with vpn",
-    "package": "telegram.app",
+    "package": "telegram",
     "data": "app.zip",
     "screenshots": [
       {
